@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning outlier detection.
 - 💬 Ask me about anything.
 - 📫 How to reach me: https://www.linkedin.com/in/albertomelo/
-- Check out my [Portfolio repository](https://github.com/albertoferreirademelo/portfolio)! :)
+- :atom: Check out my [Portfolio repository](https://github.com/albertoferreirademelo/portfolio)! :)
 
